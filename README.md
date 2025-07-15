@@ -8,9 +8,9 @@ Additional features to develop were white balance and histogram equalization whi
 discussed as well. 
 
 TLDR:
-Here are the images before and after Debayering.
+Here are the images before and after Debayering. Feel free to refer to the included PDF for more information.
+
 <img width="582" height="595" alt="image" src="https://github.com/user-attachments/assets/2490ee54-aa32-4f30-9a5c-ac42e0bc2a55" />
-<img width="665" height="589" alt="image" src="https://github.com/user-attachments/assets/d43aafa0-2385-4fbb-b113-31c2581bc6ea" />
 
 
 # Methods
